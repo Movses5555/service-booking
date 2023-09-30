@@ -1,0 +1,4 @@
+.isBooked {
+  opacity: 50%;
+  cursor: not-allowed;
+}
